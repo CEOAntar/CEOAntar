@@ -16,5 +16,5 @@ I'm a Computer Science student with a passion for software development and probl
 
 📫 How to reach me:
 
-    LinkedIn: Your LinkedIn Profile[https://www.linkedin.com/in/mohamed-antar-672433328/]
-    Email: Your Email[moemad819@gmail.com]
+    LinkedIn[https://www.linkedin.com/in/mohamed-antar-672433328/]
+    Email[moemad819@gmail.com]
